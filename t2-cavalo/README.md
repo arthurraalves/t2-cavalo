@@ -55,3 +55,7 @@ python main.py
 
 * BFS/DFS: O(V + E)
 * Espaço: O(V)
+
+## Link do vídeo
+
+* https://youtu.be/BLFNT764hIs
